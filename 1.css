@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  display: flex;
+  background-color: blue;
+  height: 10vh;
+  width: 100%;
+}
+
+div ul {
+  display: flex;
+}
+
+div ul li {
+  display: flex;
+  color: aliceblue;
+  list-style: none;
+  justify-content: center;
+}
